@@ -1,1 +1,2 @@
-# predicting_tweets_sentiment_by_huggingface_bert_on_general_elections_held_in_india_2019
+# predicting tweets sentiment by huggingface bert on general elections held in india 2019
+predicting tweets and Comments sentiment by huggingface bert on general elections Tweets and Comments held in india 2019.These tweets and Comments Were Made on Narendra Modi and Other Leaders as well as Peoples Opinion Towards the Next Prime Minister of The Nation ( In Context with General Elections Held In India - 2019).All the Tweets and Comments From twitter and Reddit are Cleaned using Python re and also NLP with a Sentimental Label to each.
